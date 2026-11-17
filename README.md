@@ -22,6 +22,9 @@ A machine learning project using historical conference registration data to pred
 ### [COVID-19 Data Analysis](https://github.com/Sirlolzthefifth/Coursework-2)
 An exploratory data analysis project investigating COVID-19 trends using Python and public datasets.
 
+### [Car Sharing Demand Analysis](https://github.com/Sirlolzthefifth/Car-Sharing-Demand-Analysis)
+A data analysis and forecasting project using Python to explore car-sharing demand patterns, examine the influence of weather and seasonal factors, and apply statistical analysis, time-series forecasting and clustering.
+
 ## Education
 
 - **MSc Artificial Intelligence and Data Science** — Keele University
